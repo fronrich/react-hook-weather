@@ -1,0 +1,37 @@
+{
+  "name": "react-hook-weather",
+  "version": "1.0.0",
+  "module": "index.ts",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "github",
+    "url": "git+https://github.com/fronrich/react-hook-weather.git"
+  },
+  "description": "Headless weather data hook using Open-Meteo.",
+  "dependencies": {
+    "@openmeteo/sdk": "^1.19.0"
+  },
+  "peerDependencies": {
+    "openmeteo": "^1.1.5",
+    "react": "^19.0.0",
+    "typescript": "^5.7.3"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "headless",
+    "weather",
+    "open-meteo",
+    "frontend",
+    "useragent",
+    "browser"
+  ],
+  "devDependencies": {
+    "@types/react": "^19.0.10",
+    "@types/useragent": "^2.3.4",
+    "openmeteo": "^1.1.5",
+    "react": "^19.0.0",
+    "typescript": "^5.7.3"
+  }
+}
