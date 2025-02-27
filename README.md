@@ -1,8 +1,8 @@
 # react-hook-weather
 
 [![npm version](https://img.shields.io/npm/v/react-hook-weather.svg)](https://www.npmjs.com/package/react-hook-weather)
-[![Build Status](https://img.shields.io/travis/yourusername/react-hook-weather.svg)](https://travis-ci.com/yourusername/react-hook-weather)
-[![License](https://img.shields.io/npm/l/react-hook-weather.svg)](https://github.com/yourusername/react-hook-weather/blob/main/LICENSE)
+[![Build Status](https://img.shields.io/travis/fronrich/react-hook-weather.svg)](https://travis-ci.com/fronrich/react-hook-weather)
+[![License](https://img.shields.io/npm/l/react-hook-weather.svg)](https://github.com/fronrich/react-hook-weather/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/npm/dm/react-hook-weather.svg)](https://www.npmjs.com/package/react-hook-weather)
 
 A simple React hook for fetching and caching weather data from the [Open-Meteo API](https://open-meteo.com/en/docs) using local storage. Perfect for integrating real-time weather information into any React app with ease.
