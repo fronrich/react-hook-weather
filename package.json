@@ -1,5 +1,6 @@
 {
   "name": "react-hook-weather",
+  "publisher": "fronrich",
   "version": "1.0.0",
   "module": "index.ts",
   "type": "module",
@@ -8,7 +9,7 @@
     "type": "github",
     "url": "git+https://github.com/fronrich/react-hook-weather.git"
   },
-  "description": "Headless weather data hook using Open-Meteo.",
+  "description": "A React hook for collecting weather data. Powered by Open-Meteo. Optimized with react-hook-storage",
   "dependencies": {
     "@openmeteo/sdk": "^1.19.0"
   },

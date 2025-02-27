@@ -1,4 +1,4 @@
-# react-hook-weather
+# react-hook-weather ⛅
 
 [![npm version](https://img.shields.io/npm/v/react-hook-weather.svg)](https://www.npmjs.com/package/react-hook-weather)
 [![Build Status](https://img.shields.io/travis/fronrich/react-hook-weather.svg)](https://travis-ci.com/fronrich/react-hook-weather)
